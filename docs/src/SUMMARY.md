@@ -26,6 +26,8 @@
 # Developer Guide
 
 * [Architecture](./architecture.md)
+* [Build System](./build-system.md)
+* [Crate Universes](./crate-universes.md)
 * [Coding Style](./coding-style.md)
 * [Contributing](./contributing.md)
 * [Development Process](./development-process.md)
