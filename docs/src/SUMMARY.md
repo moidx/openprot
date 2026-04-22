@@ -27,7 +27,9 @@
 
 * [Architecture](./architecture.md)
 * [Build System](./build-system.md)
+* [Adding a Target](./adding-a-target.md)
 * [Crate Universes](./crate-universes.md)
+* [Workflows Reference](./workflows-reference.md)
 * [Coding Style](./coding-style.md)
 * [Contributing](./contributing.md)
 * [Development Process](./development-process.md)
