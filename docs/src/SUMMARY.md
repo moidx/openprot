@@ -35,4 +35,6 @@
 * [Development Process](./development-process.md)
 * [Design](./design/README.md)
   * [Pigweed Integration Overview](./design/pigweed-overview.md)
+  * [pw_kernel App Guide](./design/pw-kernel-guide.md)
   * [pw_kernel IPC](./design/pw-kernel-ipc.md)
+  * [VeeR Target Bringup](./design/veer-target.md)
